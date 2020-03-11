@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/spa_react/static/css/main.a56ab2ca.chunk.css",
-    "main.js": "/spa_react/static/js/main.c922734d.chunk.js",
-    "main.js.map": "/spa_react/static/js/main.c922734d.chunk.js.map",
-    "runtime-main.js": "/spa_react/static/js/runtime-main.b48c42fd.js",
-    "runtime-main.js.map": "/spa_react/static/js/runtime-main.b48c42fd.js.map",
-    "static/css/2.7ee16437.chunk.css": "/spa_react/static/css/2.7ee16437.chunk.css",
-    "static/js/2.c4d4a1d5.chunk.js": "/spa_react/static/js/2.c4d4a1d5.chunk.js",
-    "static/js/2.c4d4a1d5.chunk.js.map": "/spa_react/static/js/2.c4d4a1d5.chunk.js.map",
-    "index.html": "/spa_react/index.html",
-    "precache-manifest.a47359b263079cff91cdff0aba797c82.js": "/spa_react/precache-manifest.a47359b263079cff91cdff0aba797c82.js",
-    "service-worker.js": "/spa_react/service-worker.js",
-    "static/css/2.7ee16437.chunk.css.map": "/spa_react/static/css/2.7ee16437.chunk.css.map",
-    "static/css/main.a56ab2ca.chunk.css.map": "/spa_react/static/css/main.a56ab2ca.chunk.css.map",
-    "static/media/style.scss": "/spa_react/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/client/static/css/main.1f2961ba.chunk.css",
+    "main.js": "/client/static/js/main.09c2d404.chunk.js",
+    "main.js.map": "/client/static/js/main.09c2d404.chunk.js.map",
+    "runtime-main.js": "/client/static/js/runtime-main.d5ae527e.js",
+    "runtime-main.js.map": "/client/static/js/runtime-main.d5ae527e.js.map",
+    "static/css/2.ae793241.chunk.css": "/client/static/css/2.ae793241.chunk.css",
+    "static/js/2.bd998447.chunk.js": "/client/static/js/2.bd998447.chunk.js",
+    "static/js/2.bd998447.chunk.js.map": "/client/static/js/2.bd998447.chunk.js.map",
+    "index.html": "/client/index.html",
+    "precache-manifest.8e8b2936d4416464f78a1c985c79b6c6.js": "/client/precache-manifest.8e8b2936d4416464f78a1c985c79b6c6.js",
+    "service-worker.js": "/client/service-worker.js",
+    "static/css/2.ae793241.chunk.css.map": "/client/static/css/2.ae793241.chunk.css.map",
+    "static/css/main.1f2961ba.chunk.css.map": "/client/static/css/main.1f2961ba.chunk.css.map",
+    "static/media/style.scss": "/client/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.b48c42fd.js",
-    "static/css/2.7ee16437.chunk.css",
-    "static/js/2.c4d4a1d5.chunk.js",
-    "static/css/main.a56ab2ca.chunk.css",
-    "static/js/main.c922734d.chunk.js"
+    "static/js/runtime-main.d5ae527e.js",
+    "static/css/2.ae793241.chunk.css",
+    "static/js/2.bd998447.chunk.js",
+    "static/css/main.1f2961ba.chunk.css",
+    "static/js/main.09c2d404.chunk.js"
   ]
 }
