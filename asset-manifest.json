@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/spa_react/static/css/main.a56ab2ca.chunk.css",
+    "main.js": "/spa_react/static/js/main.c922734d.chunk.js",
+    "main.js.map": "/spa_react/static/js/main.c922734d.chunk.js.map",
+    "runtime-main.js": "/spa_react/static/js/runtime-main.b48c42fd.js",
+    "runtime-main.js.map": "/spa_react/static/js/runtime-main.b48c42fd.js.map",
+    "static/css/2.7ee16437.chunk.css": "/spa_react/static/css/2.7ee16437.chunk.css",
+    "static/js/2.c4d4a1d5.chunk.js": "/spa_react/static/js/2.c4d4a1d5.chunk.js",
+    "static/js/2.c4d4a1d5.chunk.js.map": "/spa_react/static/js/2.c4d4a1d5.chunk.js.map",
+    "index.html": "/spa_react/index.html",
+    "precache-manifest.a47359b263079cff91cdff0aba797c82.js": "/spa_react/precache-manifest.a47359b263079cff91cdff0aba797c82.js",
+    "service-worker.js": "/spa_react/service-worker.js",
+    "static/css/2.7ee16437.chunk.css.map": "/spa_react/static/css/2.7ee16437.chunk.css.map",
+    "static/css/main.a56ab2ca.chunk.css.map": "/spa_react/static/css/main.a56ab2ca.chunk.css.map",
+    "static/media/style.scss": "/spa_react/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b48c42fd.js",
+    "static/css/2.7ee16437.chunk.css",
+    "static/js/2.c4d4a1d5.chunk.js",
+    "static/css/main.a56ab2ca.chunk.css",
+    "static/js/main.c922734d.chunk.js"
+  ]
+}
