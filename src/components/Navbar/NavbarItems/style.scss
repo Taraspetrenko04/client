@@ -1,0 +1,22 @@
+@media all and (min-width : 240px) {}
+@media (min-width:640px) and (max-width: 959px) {}
+@media (min-width:960px) and (max-width: 1199px) {}
+@media (min-width:1200px) {
+    .navbar-items{
+        display: inline-block
+    }
+    .navbar-list li{
+        display:inline-block;
+        margin-left: 29px;
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+        letter-spacing: 1.5px;
+        padding: 5px 5px;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    .navbar-list li:hover{
+        color: rgb(241, 173, 117);
+        background-color: rgb(131, 125, 125);
+    }
+} 

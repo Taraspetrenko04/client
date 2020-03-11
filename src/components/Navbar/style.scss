@@ -1,0 +1,11 @@
+@media all and (min-width : 240px) {}
+@media (min-width:640px) and (max-width: 959px) {}
+@media (min-width:960px) and (max-width: 1199px) {}
+@media (min-width:1200px) {
+    .navbar{
+        height: 61px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}

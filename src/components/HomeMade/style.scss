@@ -1,0 +1,12 @@
+@media all and (min-width : 240px) {}
+@media (min-width:640px) and (max-width: 959px) {}
+@media (min-width:960px) and (max-width: 1199px) {}
+@media (min-width:1200px) {
+    .home-made{
+        width: 100%;
+        background-image: url(../../img/Layer86@1X.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 300px;
+    }
+}

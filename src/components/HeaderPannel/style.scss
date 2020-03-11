@@ -1,0 +1,32 @@
+@media all and (min-width : 240px) {}
+@media (min-width:640px) and (max-width: 959px) {}
+@media (min-width:960px) and (max-width: 1199px) {}
+@media (min-width:1200px) {
+    .header-pannel{
+        width: 100%;
+        background-color: #292828;
+        height: 81px;
+        color:#F5F5F5;
+        font-family: Helvetica, sans-serif;
+        letter-spacing: 1.5px;
+        font-weight: bold;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .header-logo{
+        width: 173px;
+        height: 33px;
+        margin-left: 55px;
+    }
+    .cart-wrapper{
+        display: flex;
+        height: 33px;
+        align-items: center;
+        width: max-content;
+        margin-right: 55px;
+    }
+    .cart-img{
+        margin-right: 20px;
+    }
+}
