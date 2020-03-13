@@ -11,7 +11,9 @@ import App from "./components/App/App";
 
 
 ReactDOM.render(
+  <Router basename="/client/">
         <App />
+  </Router>      
   ,document.getElementById("root")
 );
 
